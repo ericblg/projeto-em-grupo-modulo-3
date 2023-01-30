@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  background-color: #24252A;
+  top: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 4rem;
+}
+
+.navegator {
+  color: var(--white);
+  font-size: 1.125rem;
+  transition: .3s
+}
+
+.navegator:hover {
+  color: var(--blue);
+}
+
+.navegator+.navegator {
+  margin-left: 40px;
+}
+
+.logo {
+  padding: .5rem 0;
+  color: var(--white);
+  font-size: 2rem;
+  transition: .3s
+}
+
+.logo:hover {
+  color: var(--blue);
+}

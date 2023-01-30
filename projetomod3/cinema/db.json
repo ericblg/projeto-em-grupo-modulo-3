@@ -1,0 +1,130 @@
+{
+  "filmes": [
+    {
+      "titulo": "Duro de Matar 4.0",
+      "genero": "Ação/Policial/Suspense",
+      "descricao": "Enquanto a nação se prepara para comemorar o Dia da Independência, o policial veterano John McClane cumpre outra missão de rotina: trazer um hacker para ser interrogado. Enquanto isso, um vilão chamado Thomas Gabriel lança um ataque contra a infraestrutura dos computadores dos Estados Unidos. Quando o caos começa a se instaurar ao seu redor, McClane é forçado a usar os seus métodos antigos para lutar contra uma ameaça de alta tecnologia.",
+      "imagem": "https://f001.backblazeb2.com/file/papocine/2013/02/20190320-54d3fa0d2ab10.jpg",
+      "trailer": "https://www.youtube.com/watch?v=RId8t10wKXE&ab_channel=AdoroCinema",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Top Gun: Maverick",
+      "genero": "Aventura/Ação/Drama",
+      "descricao": "Na sequência de Top Gun: Ases Indomáveis, acompanhamos a história de Pete “Maverick” Mitchell (Tom Cruise), um piloto à moda antiga da Marinha que coleciona muitas condecorações, medalhas de combate e grande reconhecimento pela quantidade de aviões inimigos abatidos nos últimos 30 anos. Entretanto, nada disso foi suficiente para sua carreira decolar, visto que ele deixou de ser um capitão e tornou-se um instrutor. A explicação para esse declínio é simples: Ele continua sendo o mesmo piloto rebelde de sempre, que não hesita em romper os limites e desafiar a morte. Nesta nova aventura, Maverick precisa provar que o fator humano ainda é fundamental no mundo contemporâneo das guerras tecnológicas. Após 34 anos do clássico, acompanhem o filme do premiado produtor Jerry Bruckheimer e de Joseph Kosinski, mesmo diretor de Tron: O Legado (2010) e Oblivion (2013).",
+      "imagem": "https://f001.backblazeb2.com/file/papocine/2022/03/20220329-top-gun-maverick-papo-de-cinema-cartaz-999.png",
+      "trailer": "https://www.youtube.com/watch?v=9Jgua93Xhcw&ab_channel=ParamountBrasil"
+    },
+    {
+      "id": "3",
+      "titulo": "M3GAN",
+      "genero": "Ficção Científica/Horror/Terror/Suspense",
+      "descricao": "Em M3gan, seguimos uma jovem garota chamada Cady, que teve seus pais mortos em um acidente de carro e é deixado sob os cuidados de sua tia Gemma, uma roboticista de uma empresa high-tech de brinquedos de criança em Seattle. Gemma trabalha no desenvolvimento chamado M3GAN, um robô humanoide, designada para ajudar a criança e ser companhia para elas. Mas após um teste que ocorreu mal, o projeto foi cancelado. Sem ter alguma conexão com a sobrinha e sempre sendo workaholic, Gemma presenteia M3gan para a sobrinha após ela querer a 'boneca'. O modelo finalizado é emparelhado com Cady, e convence a empresa do potencial de sucesso do projeto após observar as interações de M3GAN com Cady. À medida que o tempo passa, M3gan acaba ficando mais independente e andando pela casa sem qualquer ordem, além de matar qualquer coisa que ela considere uma ameaça para Cady. Mas os dias passam e M3gan pode parecer mais uma ameaça para Cady e Gemma do que imaginado.",
+      "imagem": "https://media.fstatic.com/s3kv9a2tFvC3o4HPH4j22vPoylw=/322x478/smart/filters:format(webp)/media/movies/covers/2022/10/m3gan-movie-poster-101122-b4ab8ccbbc18430eacf8a1c8ecf2ada6.jpg",
+      "trailer": "https://www.youtube.com/watch?v=JcKRaUGJcqY&ab_channel=UniversalPicturesBrasil"
+    },
+    {
+      "id": "4",
+      "titulo": "Gato de Botas 2: O Último Pedido",
+      "genero": "Animação/Aventura/Comédia",
+      "descricao": "Em Gato de Botas 2: O Último Pedido, O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: por conta de seu gosto pelo perigo e pelo desrespeito à segurança pessoal, ele queimou oito de suas nove vidas. Com apenas uma vida restante, o Gato precisa pedir ajuda para uma antiga parceira - que atualmente é sua rival e inimiga mortal, Kitty Pata Mansa - para continuar vivo. Então, o destemido bichano parte em uma jornada épica pela Floresta Negra para encontrar a mítica Estrela dos Desejos, capaz de proporcionar o legendário Último Desejo e restaurar suas nove vidas.",
+      "imagem": "https://www.atoupeira.com.br/wp-content/uploads/2022/06/o-gato-de-botas-2-novo-poster-150622.jpg",
+      "trailer": "https://www.youtube.com/watch?v=qtHcEfpYIow&ab_channel=UniversalPicturesBrasil"
+    },
+    {
+      "id": "5",
+      "titulo": "Mulher Rei",
+      "genero": "Ação/Histórico/Drama",
+      "descricao": "A Mulher Rei acompanha Nanisca (Viola Davis) que foi uma comandante do exército do Reino de Daomé, um dos locais mais poderosos da África nos séculos XVII e XIX. Durante o período, o grupo militar era composto apenas por mulheres que, juntas, combateram os colonizadores franceses, tribos rivais e todos aqueles que tentaram escravizar seu povo e destruir suas terras. Conhecidas como Agojie, o grupo foi criado por conta de sua população masculina enfrentar altas baixas na violência e guerra cada vez mais frequentes com os estados vizinhos da África Ocidental, o que levou Dahomey a ser forçado a dar anualmente escravos do sexo masculino, particularmente ao Império Oyo, que usou isso para troca de mercadorias como parte do crescente fenômeno do comércio de escravos na África Ocidental durante a Era dos Descobrimentos, o que fez com que mulheres fossem alistadas para o combate",
+      "imagem": "https://f001.backblazeb2.com/file/papocine/2022/09/20220912-a-mulher-rei-papo-de-cinema-cartaz.jpeg",
+      "trailer": "https://www.youtube.com/watch?v=IK1sEiHodZg&ab_channel=SonyPicturesBrasil"
+    },
+    {
+      "id": "6",
+      "titulo": "Interestelar",
+      "genero": "Ficção científica/Drama/Aventura",
+      "descricao": "Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.",
+      "imagem": "https://f001.backblazeb2.com/file/papocine/2014/11/20190123-411320150509-uau-posters-filmes-interestelar-interestellar.jpg",
+      "trailer": "https://www.youtube.com/watch?v=mbbPSq63yuM&ab_channel=WarnerBros.PicturesBrasil"
+    },
+    {
+      "id": "7",
+      "titulo": "Um Lugar Silencioso",
+      "genero": "Drama/Horror/Terror/Thriller",
+      "descricao": "Um Lugar Silencioso mostra uma realidade pós-apocaliptica, onde a população da Terra foi dizimada por uma entidade assustadora que ataca quando escuta um menor sinal de barulho. Em uma fazenda dos Estados Unidos, acompanhamos uma família do meio-oeste que tenta se manter em total silêncio para sobreviver à ameaça que ronda a sua casa.",
+      "imagem": "https://f001.backblazeb2.com/file/papocine/2018/03/20180328-um-lugar-silencioso-papo-de-cinema-cartaz.jpg",
+      "trailer": "https://www.youtube.com/watch?v=8W6iMmhVDgE&ab_channel=ParamountBrasil"
+    },
+    {
+      "id": "9",
+      "titulo": "TeneT",
+      "genero": "Ficção científica",
+      "descricao": "Um agente da CIA conhecido como O Protagonista (John David Washington) é recrutado por uma organização misteriosa, chamada Tenet, para participar de uma missão de escala global. Eles precisam impedir que Andrei Sator (Kenneth Branagh), um renegado oligarca russo com meios de se comunicar com o futuro, inicie a Terceira Guerra Mundial. A organização está em posse de uma arma de fogo que consegue fazer o tempo correr ao contrário, acreditando que o objeto veio do futuro. Com essa habilidade em mãos, O Protagonista precisará usá-la como forma de se opor à ameaça que está por vir, impedindo que os planos de Sator se concretizem.",
+      "imagem": "https://f001.backblazeb2.com/file/papocine/2020/10/20201030-tenet-cartaz-papo-de-cinema.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ASTU3rFyOm4"
+    }
+  ],
+  "sessoes": [
+    {
+      "id": "1",
+      "titulo_filme": "Batman 4",
+      "data": "Dec 15, 2022",
+      "horario": "23:59:00",
+      "auditorio": "Sala 1",
+      "imagem_tipo": "2D"
+    },
+    {
+      "id": "2",
+      "titulo_filme": "Batman 3",
+      "data": "Dec 16, 2022",
+      "horario": "23:59:00",
+      "auditorio": "Sala 2",
+      "imagem_tipo": "3D"
+    },
+    {
+      "id": "3",
+      "titulo_filme": "Batman 2",
+      "data": "Dec 17, 2022",
+      "horario": "23:59:00",
+      "auditorio": "Sala 3",
+      "imagem_tipo": "4D"
+    },
+    {
+      "id": "4",
+      "titulo_filme": "Adão Negro 3",
+      "data": "Dec 13, 2022",
+      "horario": "17:00",
+      "auditorio": "Sala 4",
+      "imagem_tipo": "4D"      
+    },
+    {
+      "id": "5",
+      "titulo_filme": "Vingadores Ultimato",
+      "data": "14/12/2022",
+      "horario": "17:00",
+      "auditorio": "Sala 1",
+      "imagem_tipo": "3D"      
+    }
+  ],
+  "combos": [
+    {
+      "id": "1",
+      "nome": "Simples",
+      "descricao": "Pipoca pequena + refrigerante",
+      "imagem": "https://img.freepik.com/fotos-kostenlos/kino-mit-popcornbox_23-2148133601.jpg?w=1380&t=st=1674949911~exp=1674950511~hmac=404c3ed0cdf852741572bee5774129028bd843efc0a21270063ef6713b8f0e26"
+    },
+    {
+      "id": "2",
+      "nome": "Médio",
+      "descricao": "Pipoca média + 2 refrigerante ",
+      "imagem": "https://img.freepik.com/fotos-kostenlos/kino-mit-popcornbox_23-2148133601.jpg?w=1380&t=st=1674949911~exp=1674950511~hmac=404c3ed0cdf852741572bee5774129028bd843efc0a21270063ef6713b8f0e26"
+    },
+    {
+      "id": "3",
+      "nome": "Grande",
+      "descricao": "Pipoca grande + 2 refrigerante",
+      "imagem": "https://img.freepik.com/fotos-kostenlos/kino-mit-popcornbox_23-2148133601.jpg?w=1380&t=st=1674949911~exp=1674950511~hmac=404c3ed0cdf852741572bee5774129028bd843efc0a21270063ef6713b8f0e26"
+    }
+  ]
+}

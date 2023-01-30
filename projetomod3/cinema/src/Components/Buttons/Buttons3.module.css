@@ -1,0 +1,19 @@
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  gap: 60px;
+  border: none;
+  margin-bottom: 200px;
+}
+
+.btnContainer button {
+  border: none;
+  border-radius: 25vh;
+  background-color: var(--blue);
+  color: var(--black);
+  padding: 5px 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+}

@@ -1,0 +1,19 @@
+.capaSessoes  {
+    background-image: url(https://images.unsplash.com/photo-1574267432553-4b4628081c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--blue);
+}
+
+.tabela2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 200px;
+    padding: 40px 1em 80px 1em;
+    justify-content: center;
+    gap: 40px;
+}

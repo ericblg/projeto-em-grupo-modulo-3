@@ -1,0 +1,17 @@
+.btnContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    gap: 60px;
+  }
+  
+  .btnContainer button {
+    border-radius: 25vh;
+    border: none;
+    background-color: var(--blue);
+    color: var(--black);
+    padding: 5px 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
